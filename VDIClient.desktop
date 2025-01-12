@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment[en_US]=Proxmox VDIClient
+Comment=Proxmox VDIClient
+Exec=/usr/bin/distrobox-enter -n fedora -- /usr/bin/python3 /home/user/.local/share/PVE-VDIClient/vdiclient.py
+GenericName[en_US]=
+GenericName=
+Icon=/var/home/user/.local/share/PVE-VDIClient/vdiclient.png
+MimeType=
+Name[en_US]=PVEClient
+Name=PVEClient
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-RunOnDiscreteGpu=false
+X-KDE-SubstituteUID=false
+X-KDE-Username=
